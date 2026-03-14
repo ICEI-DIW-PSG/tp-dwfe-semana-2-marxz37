@@ -8,7 +8,8 @@ Matricula: 918513
 ## Tela de inspeção com navegador
 
 ![Inspeção Network Navegador](images/network.png)
-![HTML Hello World](images/index.png)
+
+![Hello World](images/index.png)
 ## Orientações sobre Linguagem MarkDown
 
 Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto em Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
