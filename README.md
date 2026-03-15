@@ -5,7 +5,7 @@
 Nome: Marx Bento Dumbá
 Matricula: 918513
 
-## Tela de inspeção com navegador
+## Tela de inspeção com navegador:
 
 ![Inspeção Network Navegador](images/network.png)
 
